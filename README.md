@@ -4,7 +4,7 @@
 
 __walkthrough video__
 ![walkthrough video](gif.gif)
-<iframe src="https://drive.google.com/file/d/1lsCPGKRijrE1Ojb3gj_GkPUKUtUElY23/preview" width="640" height="480"></iframe>
+https://drive.google.com/file/d/1lsCPGKRijrE1Ojb3gj_GkPUKUtUElY23/preview
 
 <h1 align="center">Hi 👋, I'm Tracee</h1>
 <h3 align="center">A full-stack developer from Utah.</h3>
