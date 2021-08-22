@@ -3,7 +3,7 @@
 *
 
 __walkthrough video__
-![walkthrough video](gif)
+![walkthrough video](.gif)
 <iframe src="https://drive.google.com/file/d/1lsCPGKRijrE1Ojb3gj_GkPUKUtUElY23/preview" width="640" height="480"></iframe>
 
 <h1 align="center">Hi 👋, I'm Tracee</h1>
