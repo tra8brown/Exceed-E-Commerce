@@ -1,8 +1,7 @@
 # Exceed-E-Commerce
-* 
-*
+* E-Commerce Back End
 
-__walkthrough video__
+__walkthrough video & link__
 ![walkthrough video](gif.gif)
 https://drive.google.com/file/d/1lsCPGKRijrE1Ojb3gj_GkPUKUtUElY23/preview
 
